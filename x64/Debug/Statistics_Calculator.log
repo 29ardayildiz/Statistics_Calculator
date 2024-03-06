@@ -1,0 +1,9 @@
+﻿  Double_Vector.cpp
+  Statistics_Calculator.cpp
+  Kod Üretiliyor...
+D:\Files\Git_Hub\Statistics_Calculator\Statistics_Calculator\Double_Vector.cpp(157): warning C4715: 'Double_vector::operator[]': tüm denetim yolları değer döndürmez
+D:\Files\Git_Hub\Statistics_Calculator\Statistics_Calculator\Double_Vector.cpp(175): warning C4715: 'Double_vector::at': tüm denetim yolları değer döndürmez
+D:\Files\Git_Hub\Statistics_Calculator\Statistics_Calculator\Double_Vector.cpp(184): warning C4715: 'Double_vector::at': tüm denetim yolları değer döndürmez
+D:\Files\Git_Hub\Statistics_Calculator\Statistics_Calculator\Double_Vector.cpp(166): warning C4715: 'Double_vector::operator[]': tüm denetim yolları değer döndürmez
+Statistics_Calculator.obj : error LNK2005: main zaten Double_Vector.obj üzerinde tanımlandı
+D:\Files\Git_Hub\Statistics_Calculator\x64\Debug\Statistics_Calculator.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu

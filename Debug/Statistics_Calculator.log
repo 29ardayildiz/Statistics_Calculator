@@ -1,0 +1,2 @@
+﻿Statistics_Calculator.obj : error LNK2005: _main zaten Double_Vector.obj üzerinde tanımlandı
+D:\Files\Git_Hub\Statistics_Calculator\Debug\Statistics_Calculator.exe : fatal error LNK1169: Bir veya daha fazla birden çok kez tanımlanmış sembol bulundu
